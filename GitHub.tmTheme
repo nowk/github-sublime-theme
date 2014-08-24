@@ -52,7 +52,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#000000</string>
           </dict>
@@ -65,7 +65,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
           </dict>
       </dict>
       <dict>
@@ -76,7 +76,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#445588</string>
           </dict>
@@ -116,7 +116,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#990000</string>
           </dict>
@@ -129,7 +129,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#458</string>
           </dict>
@@ -238,7 +238,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#f00</string>
           </dict>
@@ -330,7 +330,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#458</string>
           </dict>
@@ -390,7 +390,7 @@
           <key>settings</key>
           <dict>
               <key>fontStyle</key>
-              <string>bold</string>
+              <string>normal</string>
               <key>foreground</key>
               <string>#445588</string>
           </dict>
